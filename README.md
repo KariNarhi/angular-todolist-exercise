@@ -1,3 +1,5 @@
+> This Angular Crash Course is done following the [video](https://www.youtube.com/watch?v=Fdf5aTYRW0E) made by Traversy Media.
+
 # AngularTodolistExercise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
